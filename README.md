@@ -1,10 +1,10 @@
 # RussianRoulette
 
-This is a simple app based on the russian roulette's rules.
+This is a simple app based on the russian roulette's rules.  
 
-basically you can just add as many bullets as you want and click the roll button.
+basically you can just add as many bullets as you want and click the roll button.  
 
-However there is also a score system. Depending on how many bullets you add, you gain points if you survive :
+However there is also a score system. Depending on how many bullets you add, you gain points if you survive :  
 1 bullet -> 1 point  
 2 bullets -> 3 points  
 3 bullets -> 5 points  
@@ -12,5 +12,5 @@ However there is also a score system. Depending on how many bullets you add, you
 5 bullets -> 15 points  
 6 bullets -> you should think twice  
 
-When you stop on a bullet the score is reset to 0.
+When you stop on a bullet the score is reset to 0.  
 
