@@ -14,3 +14,4 @@ However there is also a score system. Depending on how many bullets you add, you
 
 When you stop on a bullet the score is reset to 0.  
 
+![alt text](https://github.com/Armand-B/RussianRoulette/blob/master/russian%20roulette.jpg)
